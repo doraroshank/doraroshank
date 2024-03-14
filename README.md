@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋, I am Roshan!
+
+I am a Third Year [Physics](https://www.phy.iiserb.ac.in) Major at the [Indian Institute of Science Education and Research Bhopal](https://www.iiserb.ac.in)
+
+To know more about me visit my [Personal Website](https://romeokilodelta.github.io/) (Still Under Construction :/) !
 
 <!--
 **doraroshank/doraroshank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
